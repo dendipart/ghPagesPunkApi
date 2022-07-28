@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "test_vicuesoft",
   "private": true,
+  "homepage": "/ghPagesPunkApi",
   "scripts": {
     "dev": "next",
     "build": "next build && next export",
