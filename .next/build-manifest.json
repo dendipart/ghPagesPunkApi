@@ -1,0 +1,60 @@
+{
+  "polyfillFiles": [
+    "static/chunks/polyfills-c67a75d1b6f99dc8.js"
+  ],
+  "devFiles": [],
+  "ampDevFiles": [],
+  "lowPriorityFiles": [
+    "static/MvH1beaJzUap4CfUKGz4N/_buildManifest.js",
+    "static/MvH1beaJzUap4CfUKGz4N/_ssgManifest.js"
+  ],
+  "rootMainFiles": [],
+  "pages": {
+    "/": [
+      "static/chunks/webpack-1b45f567774c5a9d.js",
+      "static/chunks/framework-5f4595e5518b5600.js",
+      "static/chunks/main-40bc0aad95fa539a.js",
+      "static/css/62b95f8c4009dffb.css",
+      "static/chunks/pages/index-7f845422dbac65dd.js"
+    ],
+    "/BeerDetails/BeerImage": [
+      "static/chunks/webpack-1b45f567774c5a9d.js",
+      "static/chunks/framework-5f4595e5518b5600.js",
+      "static/chunks/main-40bc0aad95fa539a.js",
+      "static/chunks/pages/BeerDetails/BeerImage-4451555db0250f8f.js"
+    ],
+    "/BeerList": [
+      "static/chunks/webpack-1b45f567774c5a9d.js",
+      "static/chunks/framework-5f4595e5518b5600.js",
+      "static/chunks/main-40bc0aad95fa539a.js",
+      "static/chunks/pages/BeerList-4c7d3d7db54b9e49.js"
+    ],
+    "/BeerList/BeerList": [
+      "static/chunks/webpack-1b45f567774c5a9d.js",
+      "static/chunks/framework-5f4595e5518b5600.js",
+      "static/chunks/main-40bc0aad95fa539a.js",
+      "static/chunks/pages/BeerList/BeerList-c3bcc28b58d28044.js"
+    ],
+    "/_app": [
+      "static/chunks/webpack-1b45f567774c5a9d.js",
+      "static/chunks/framework-5f4595e5518b5600.js",
+      "static/chunks/main-40bc0aad95fa539a.js",
+      "static/css/fb4ee1fb2f48cbdb.css",
+      "static/chunks/pages/_app-d4411a37e7cc8456.js"
+    ],
+    "/_error": [
+      "static/chunks/webpack-1b45f567774c5a9d.js",
+      "static/chunks/framework-5f4595e5518b5600.js",
+      "static/chunks/main-40bc0aad95fa539a.js",
+      "static/chunks/pages/_error-a4ba2246ff8fb532.js"
+    ],
+    "/beer": [
+      "static/chunks/webpack-1b45f567774c5a9d.js",
+      "static/chunks/framework-5f4595e5518b5600.js",
+      "static/chunks/main-40bc0aad95fa539a.js",
+      "static/css/62b95f8c4009dffb.css",
+      "static/chunks/pages/beer-5cc31b64a698d2aa.js"
+    ]
+  },
+  "ampFirstPages": []
+}
