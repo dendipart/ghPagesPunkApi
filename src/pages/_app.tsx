@@ -12,7 +12,7 @@ export default function MyApp({ Component, pageProps }: AppProps) {
     <>
       <ProviderRedux store={store}>
         <FilterProvider>
-          <Header></Header>
+          <Header />
           <Component {...pageProps} />
         </FilterProvider>
       </ProviderRedux>
