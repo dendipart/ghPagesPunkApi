@@ -131,7 +131,7 @@ const Header = ()=>{
 };
 /* harmony default export */ const Header_Header = (Header);
 const Div = (styled_default()).div`
-  background-image: url(https://www.aspenwords.org/wp-content/uploads/2017/12/2017-12-01-15-49-www.aspeninstitute.org_.png);
+  background-color: #00cccc;
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
